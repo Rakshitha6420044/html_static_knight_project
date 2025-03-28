@@ -1,3 +1,4 @@
+## live preview: https://rakshitha6420044.github.io/html_static_knight_project/
 Thanks for downloading this theme!
 
 Theme Name: Knight
